@@ -1,0 +1,94 @@
+
+     h1{
+        color: black;
+        text-align: center;
+        bottom: auto;
+    }
+
+      h3{
+          color: red;
+      s
+          text-align: center; 
+      }
+
+    hr{
+
+        border-style: none;
+        border-color: grey;
+        border-width: 10pxs
+        height 5%;
+    }
+    
+ img{
+
+       border-radius: 25% 10%;
+        background-image:  rgba(255, 255, 0, 0.5);
+        border-color: red blue green;
+          display: block;
+          padding: 20px;
+        margin-left: auto;
+       margin-right: auto;
+         width: 10%;
+    }
+    
+     
+  p{
+    text-align: center;
+  }
+   div{
+
+   
+      display: inline-block;
+      text-align : center;
+   ;
+      margin-bottom: auto;
+      margin-right: auto;
+      margin-top : auto;  
+      
+
+  }
+/*.container{
+ 
+    height:50px; 
+    display: block;
+   margin:30px auto 30px auto 30px auto;
+   text-align: right;
+   justify-content: center;
+   padding-top: 10px;
+
+
+   color: white;
+}*/
+
+li{
+    text-align: center;
+    display: inline-block;
+    padding-right:  100px ;
+
+}
+a{
+    
+}
+
+ul{
+    text-align: center;
+  
+}
+  
+  .card-header{
+   color: blue; 
+  padding-left: 10px;
+  }
+.skill{
+    height: 200px;
+    width: 200px;
+    background-colo;
+    float: right;
+    padding-top: 10px ;
+    padding-bottom:60px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
+    margin-right:   20%;
+}   
+*/
